@@ -24,7 +24,7 @@ Local LLM Multiple Chats is an inference interface for Language Models (LLMs) th
 
 To run the Local LLM Multiple Chats application, you need to have the following:
 
-- Python 3.x installed
+- Python 3.10 or above installed
 - PyQt5 library
 - OpenAI API key
 - Bedrock Access Key
