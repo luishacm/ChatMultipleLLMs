@@ -35,7 +35,7 @@ To run the Local LLM Multiple Chats application, you need to have the following:
 
 1. Clone the repository:
 
-```git clone https://github.com/your-username/local-llm-multiple-chats.git```
+```git clone https://github.com/luishacm/local-llm-multiple-chats.git```
 
 2. Install the required dependencies:
 
