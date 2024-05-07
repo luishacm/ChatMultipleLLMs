@@ -32,7 +32,7 @@ class ChatbotGUI(QWidget):
             },
             "gpt-4": {
                 "display_name": "GPT-4",
-                "full_name": "gpt-4",
+                "full_name": "gpt-4-turbo",
                 "provider": "openai"
             },
             "sonnet": {
@@ -45,6 +45,11 @@ class ChatbotGUI(QWidget):
                 "full_name": "anthropic.claude-3-haiku-20240307-v1:0",
                 "provider": "anthropic"
             },
+            "opus": {
+                "display_name": "Opus",
+                "full_name": "anthropic.claude-3-opus-20240229-v1:0",
+                "provider": "anthropic"
+            }
             # Add more models as needed
         }
 
