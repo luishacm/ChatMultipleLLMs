@@ -35,6 +35,11 @@ class ChatbotGUI(QWidget):
                 "full_name": "gpt-4-turbo",
                 "provider": "openai"
             },
+            "gpt-4o": {
+                "display_name": "GPT-4-Omni",
+                "full_name": "gpt-4-o",
+                "provider": "openai"
+            },
             "sonnet": {
                 "display_name": "Sonnet",
                 "full_name": "anthropic.claude-3-sonnet-20240229-v1:0",
