@@ -7,16 +7,11 @@ Local LLM Multiple Chats is an inference interface for Language Models (LLMs) th
 ## Features
 
 - Simultaneously chat with multiple language models
-- Support for OpenAI's GPT-3.5 Turbo and GPT-4 models
-- Integration with Anthropic's Claude 3 Sonnet and Claude 3 Haiku models
+- Support for OpenAI's GPT-3.5 Turbo, GPT-4 and GPT-4 Omni models
+- Integration with Anthropic's Claude 3 Sonnet, Haiku and Opus models
 - Customizable system prompts for each model
 - Real-time token count tracking and adjustable token limit
 - Clear and intuitive user interface
-
-## Upcoming Features
-
-- Integration with Bedrock's Opus model once it becomes available on AWS
-
 
 ## Getting Started
 
