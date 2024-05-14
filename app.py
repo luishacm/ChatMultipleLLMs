@@ -37,7 +37,7 @@ class ChatbotGUI(QWidget):
             },
             "gpt-4o": {
                 "display_name": "GPT-4-Omni",
-                "full_name": "gpt-4-o",
+                "full_name": "gpt-4o-2024-05-13",
                 "provider": "openai"
             },
             "sonnet": {
